@@ -46,7 +46,7 @@ html, body{
 }
 
 #text{
-    padding: 3vw 10vw;
+    padding: 0 10vw;
     margin-top: 7vw;
     justify-content: space-between;
 }
@@ -141,22 +141,31 @@ hr{
 #aboutcontainer {
     width: 100%;
     padding: 2vh 2vw;
-    overflow: hidden;
     display: flex;
     align-items: baseline;
-    justify-content: space-around;
-    gap: 25vw;
+    justify-content: flex-start;
+    gap: 23vw;
 }
 
 #abouttext1 p {
     color: #fff;
-    flex: 1;
-    text-align: right;
+    text-align: left;
+    font-size: 0.9vw;
+    font-weight: 300;
+    margin: 0;
+    margin-right: auto;
 }
 
 #abouttext2 p {
-    color: #fff;
-    flex: 1;
     text-align: left;
-    margin-right: 30vw;
+    font-size: 0.9vw;
+    font-weight: 300;
+}
+
+#abouttext2 #text1{
+    color: #fff;
+}
+
+#abouttext2 #text2{
+    color: #bdbaba;
 }
