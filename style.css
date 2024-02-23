@@ -256,7 +256,7 @@ hr{
 @media (max-width: 1100px) {
 
     #navbar #sec2 a, #navbar #sec1 a{
-        font-size: 2vw;
+        font-size: 2.5vw;
         padding: 2vh 4vw;
     }
 
@@ -372,18 +372,18 @@ hr{
         font-size: 3vw;
     }
     #contactsec1 h4{
-        font-size: 4vw;
+        font-size: 2.5vw;
     }
     #footer{
         padding: 2vh 4vw;
     }
     #footer a{
-        font-size: .5vw;
+        font-size: 2.5vw;
     }
     #footer h4{
-        font-size: .6vw;
+        font-size: 2.5vw;
     }
     #footer p{
-        font-size: .5vw;
+        font-size: 2.5vw;
     }
 }
