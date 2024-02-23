@@ -152,7 +152,7 @@ hr{
     color: #fff;
     text-align: left;
     font-size: 0.9vw;
-    font-weight: 300;
+    font-weight: 600;
     margin: 0;
     margin-right: auto;
 }
@@ -168,5 +168,56 @@ hr{
 }
 
 #abouttext2 #text2{
+    color: #bdbaba;
+}
+
+#contact {
+    width: 100%;
+    padding: 2vh 2vw;
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-start;
+    gap: 22.5vw;
+}
+
+#contactsec1 p {
+    color: #fff;
+    text-align: left;
+    font-size: 0.9vw;
+    font-weight: 300;
+    margin: 0;
+    margin-right: auto;
+}
+
+#contactsec2 p {
+    color: #fff;
+    text-align: left;
+    font-size: 0.9vw;
+    font-weight: 600;
+}
+
+#contactsec2 h4{
+    color: #bdbaba;
+    font-size: 2vw;
+}
+
+#footer {
+    width: 100%;
+    padding: 2vh 2vw;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+#footer a{
+    text-decoration: none;
+    color: #bdbaba;
+}
+
+#footer p{
+    color: #fff;
+}
+
+#footer h4{
     color: #bdbaba;
 }
