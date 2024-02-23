@@ -110,7 +110,7 @@ hr{
     top: 1vh;
     left: 1vw;
     text-align: left;
-    color: #fff;
+    color: #ffffff;
     z-index: 2;
     display: none;
 }
@@ -125,7 +125,7 @@ hr{
     margin: 0;
     font-size: 1vw;
     font-weight: 600;
-    color: #ffffff;
+    color: #000000;
     background-color: transparent;
 }
 
