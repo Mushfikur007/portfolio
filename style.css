@@ -345,6 +345,13 @@ hr{
         flex-direction: column;
         padding: 2vh 4vw;
     }
+    #abouttext1 p{
+        font-size: 3vw;
+        font-weight: 300;
+    }
+    #abouttext2 p{
+        font-size: 2vw;
+    }
     #abouttext2{
         margin-top: -10vh;
         padding: 2vh 4vw;
@@ -357,6 +364,15 @@ hr{
     #contactsec2{
         margin-top: -10vh;
         padding: 2vh 4vw;
+    }
+    #contactsec1 p{
+        font-size: 3vw;
+    }
+    #contactsec2 p{
+        font-size: 2vw;
+    }
+    #contactsec1 h4{
+        font-size: 3vw;
     }
     #footer{
         padding: 2vh 4vw;
